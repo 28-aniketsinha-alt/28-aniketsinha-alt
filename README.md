@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="wide_minimalist_graphic_design_on_a_clean_pale_ivo.png" width="100%" alt="Finance Banner">
+  <img src="Global Finance Growth Banner.png" width="100%" alt="Finance Banner">
 </p>
 
 
