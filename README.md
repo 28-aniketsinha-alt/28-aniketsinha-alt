@@ -20,7 +20,7 @@
 
 🏆 **Talent Auction — AI Hiring Simulation**
 
-An IPL-style hiring simulation where users build teams within a budget, evaluate candidates, and make strategic hiring decisions with AI.
+An AI-powered hiring simulation inspired by IPL auctions, where managers bid for candidates based on their skills and suitability for a business problem. The game helps demonstrate talent acquisition, strategic decision-making, and team building.
 
 🔗 [Explore the Project](https://26-rahulsaxena.github.io/Talent-auctionn/)
 
