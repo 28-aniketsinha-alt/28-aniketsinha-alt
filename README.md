@@ -24,6 +24,11 @@ An IPL-style hiring simulation where users build teams within a budget, evaluate
 
 🔗 [Explore the Project](https://26-rahulsaxena.github.io/Talent-auctionn/)
 
+## 📜 Certifications
+
+- [**International Business and Finance**](https://www.linkedin.com/learning/certificates/cba700e2e2edf3767c) — LinkedIn Learning
+- [**Discovering Your Strengths**](https://www.linkedin.com/learning/certificates/28e4c07845a814ec42a1f38b2c879d52f08608cfcbbfe4c9e5637fc13d55534b?u=139528497) — LinkedIn Learning
+
 ### 🛠️ Skills I'm Developing
 
 - Business Analytics & Data Interpretation
@@ -43,10 +48,7 @@ I'm interested in learning from others, collaborating on business projects, and 
 
 ⭐ *Learning by doing, building practical skills, and turning business ideas into solutions.*
 
-## 📜 Certifications
 
-- **International Business and Finance** — LinkedIn Learning
-  - [View Certificate](https://www.linkedin.com/learning/certificates/cba700e2e2edf3767c)
   
 <!--
 **28-aniketsinha-alt/28-aniketsinha-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
