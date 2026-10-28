@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="wide_minimalist_graphic_design_on_a_clean_pale_ivo.png" width="100%" alt="Finance Banner">
+</p>
+
+
 # 👋 Hi, I'm Aniket Sinha
 
 🎓 PGDM Student at FIIB, Delhi, India
