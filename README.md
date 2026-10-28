@@ -43,7 +43,11 @@ I'm interested in learning from others, collaborating on business projects, and 
 
 ⭐ *Learning by doing, building practical skills, and turning business ideas into solutions.*
 
+## 📜 Certifications
 
+- **International Business and Finance** — LinkedIn Learning
+  - [View Certificate](https://www.linkedin.com/learning/certificates/cba700e2e2edf3767c)
+  
 <!--
 **28-aniketsinha-alt/28-aniketsinha-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
